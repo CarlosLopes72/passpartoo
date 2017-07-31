@@ -1,13 +1,13 @@
-/****************************************************************
-*Plus grand Denominateur commun 								*
-*																*
-*created by CArlos Lopes on 13FEB2017							*
-* Copyright 2017 __MyCompanyName__. All rights reserved.		*
-*																*
-*		unsigned int == unsigned long							*
-*		%u == %lu												*
-*																*
-****************************************************************/
+/****************************************************************\
+*Plus grand Denominateur commun 				*
+*								*
+*created by CArlos Lopes on 13FEB2017				*
+* Copyright 2017 __MyCompanyName__. All rights reserved.	*
+*								*
+*		unsigned int == unsigned long			*
+*		%u == %lu					*
+*								*
+\****************************************************************/
 
 #include <stdio.h>
 
