@@ -5,7 +5,25 @@
     
     Chap 4
     
-    Chap 5
+    Chap 5 Package management systems
+        Intro : two main package management systems: RPM and apt
+    RPM for Red Hat , fedora, oracle linux.
+    APT for Debian and distributions derived from Debian.
+    RPM and DPKG are low level utilities.
+    Yum for Red Hat, zipper for Suse and DNF for fedora are high level package management systems
+    APT (apt-get, apt-cache) high level package management system for debian.
+        5.9 you can create your own packages. 
+    .rpm or .deb
+        5.10 revision control system
+    Source control systems to coordinate coperative development.
+        5.11 available Source control systems
+    git 
+    CVS
+        5.12 git was created when it was not possible to use BitKeeper freely for the kernel development. there was a licensing
+    problem.
+        5.13 git works:
+    an objec database: blobs, trees, commits
+    a directory cache that captures the directory tree
     
     Chap 6  
     
